@@ -1,6 +1,5 @@
 # quiz3_answer_key
 
-# Quiz 3
 Name:
 </br>
 Uni:
